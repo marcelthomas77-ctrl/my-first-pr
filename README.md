@@ -13,3 +13,7 @@ branching, committing, pushing, and opening a PR.
 2. Commit the change with a clear message.
 3. Push the branch to GitHub.
 4. Open a pull request and describe what changed and why.
+
+## Status
+
+This is a personal learning project, not intended for production use.
